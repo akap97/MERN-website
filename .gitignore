@@ -1,2 +1,2 @@
-/conFusionServer/node_modules
-/client/node_modules
+./conFusionServer/node_modules
+./client/node_modules
